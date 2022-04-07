@@ -1,1 +1,1 @@
-# aisoccer-2d
+# aisoccer-cube
